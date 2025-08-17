@@ -1,4 +1,4 @@
-# Instalattion
+# Installation
 download the latest version from releases place it in a convenient folder. if the site https://pekora.zip opened then everything worked
 
 # Uninstallation
