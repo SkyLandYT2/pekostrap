@@ -1,8 +1,8 @@
 # Installation
-download the latest version from releases place it in a convenient folder. if the site https://pekora.zip opened then everything worked
+download the latest version from releases place it in a convenient folder. open it and done
 
 # Uninstallation
-To uninstall pekostrap, open the folder where pekostrap is located, click on the path field and enter: pekostrap.exe --uninstall
+To uninstall pekostrap, open the pekostrap.exe and click uninstall button
 
 # Features 
 1. Discord RPC for verisons : 2018,2020,2021
