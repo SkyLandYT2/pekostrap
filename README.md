@@ -7,3 +7,4 @@ To uninstall pekostrap, open the pekostrap.exe and click uninstall button
 # Features 
 1. Discord RPC for verisons : 2018,2020,2021
 2. Pekostrap RPC (works how and bloxstrap)
+3. Fast Flags Editor
