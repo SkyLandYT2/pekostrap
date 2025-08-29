@@ -1,5 +1,5 @@
 # Warning
-№ If you uses new Pekora launcher, download 1.0.2 verison, if no (ProjectX) Download 1.0.1
+# If you uses new Pekora launcher, download 1.0.2 verison, if no (ProjectX) Download 1.0.1
 
 # Installation
 download the latest version from releases place it in a convenient folder. open it and done
